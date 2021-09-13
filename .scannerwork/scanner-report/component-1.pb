@@ -1,0 +1,1 @@
+bars-service.aika.rose.manguba :Rbars-service.aika.rose.mangubabScan project.
